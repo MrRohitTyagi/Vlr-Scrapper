@@ -2,6 +2,8 @@
 Fast and Free rest API ,vlr scrapper is a vlr.gg scrapper , users can Get detailed Description of players, Events, region wise events,  country wise Team names etc.
 backend is hosted on Replit.com 
 
+api demo website :https://vlr-scrapper.netlify.app/
+
 # Endpoints 
 Get information about all valorant Pro teams 
 : https://Backend.rt7rt7.repl.co/teams
