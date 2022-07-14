@@ -28,7 +28,7 @@ Get information about all Brazil valorant Pro Mtches and Events with live status
 : https://Backend.rt7rt7.repl.co/AllteamsBR
 
 Get information about all Asis-Pacific valorant Pro Mtches and Events with live status
-: https://Backend.rt7rt7.repl.co/Allteams
+: https://Backend.rt7rt7.repl.co/AllteamsAP
 
 Get information about all Korea valorant Pro Mtches and Events with live status
 : https://Backend.rt7rt7.repl.co/AllteamsKR
